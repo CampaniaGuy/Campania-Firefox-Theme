@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="mycolor" bx:pinned="true">
+      <stop style="stop-color: rgb(95, 206, 85);" offset="0"/>
+      <stop style="stop-color: rgb(65, 110, 65);" offset="1"/>
+    </linearGradient>
+    <linearGradient id="color-0" bx:pinned="true">
+      <stop style="stop-color: #fbfad3;"/>
+    </linearGradient>
+    <linearGradient id="color-1" bx:pinned="true">
+      <stop style="stop-color: #c6e377;"/>
+    </linearGradient>
+    <linearGradient id="color-2" bx:pinned="true">
+      <stop style="stop-color: #729d39;"/>
+    </linearGradient>
+    <linearGradient id="color-3" bx:pinned="true">
+      <stop style="stop-color: #36622b;"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="250" y1="5" x2="250" y2="495" id="gradient-0">
+      <stop offset="0" style="stop-color: rgba(95, 206, 85, 1)"/>
+      <stop offset="1" style="stop-color: rgba(51, 147, 42, 1)"/>
+    </linearGradient>
+  </defs>
+  <ellipse style="fill-rule: nonzero; stroke-width: 10px; paint-order: stroke; stroke: rgb(54, 98, 43); fill: url(#gradient-0);" cx="250" cy="250" rx="245" ry="245" transform="matrix(0.906309, 0.422616, -0.42262, 0.906307, 129.077965, -82.230851)"/>
+  <path style="stroke: rgb(54, 98, 43); fill: rgb(54, 98, 43); visibility: hidden;" transform="matrix(-0.659122, 0, 0, 0.656617, 617.275513, 31.814661)" d="M 293.202 260.893 A 265.51 265.51 0 1 1 293.202 389.359 A 216.005 216.005 0 1 0 293.202 260.893 Z" bx:shape="crescent 550.825 325.126 265.51 332 0.81 1@46f1b71d" bx:origin="0.642855 0.645297"/>
+  <path style="stroke: rgba(0, 0, 0, 0); fill: rgba(54, 98, 43, 0.62);" d="M 4 249 C 1.986 568.133 486.435 585.235 496 251.8"/>
+</svg>
